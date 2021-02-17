@@ -3,6 +3,7 @@ Mico Santiago
 
 1. Create an array-based list or a linked-list that allows:
 Used this model ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20200822122044/ibhll.jpg)
+URL(https://media.geeksforgeeks.org/wp-content/uploads/20200822122044/ibhll.jpg)
   - an add function that takes a value and inserts it into a given position into the list
     - add(number, position)
 
